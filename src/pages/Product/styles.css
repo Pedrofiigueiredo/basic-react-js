@@ -1,0 +1,25 @@
+.product-info {
+  max-width: 90rem;
+  margin: 5rem auto 0;
+  padding: 5rem;
+}
+
+.product-info h1 {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.product-info p {
+  font-size: 2rem;
+  margin-bottom: 2rem;
+}
+
+.product-info a {
+  font-size: 2rem;
+  text-decoration: none;
+  color: cadetblue;
+}
+
+.product-info a:hover {
+  text-decoration: underline;
+}

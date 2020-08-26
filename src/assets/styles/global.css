@@ -1,0 +1,13 @@
+:root {
+  font-size: 50%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font: 400 1.2rem Arial, sans-serif;
+  background: #fafafa;
+}
